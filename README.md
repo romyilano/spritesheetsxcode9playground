@@ -7,3 +7,4 @@ You can stick even SpriteSheets in an Xcode Playground.
 * Swift files go into the Sources folder
 * Swift files need to be made public, even the initializer
 
+![
